@@ -54,3 +54,4 @@ data_csv = pandas.DataFrame(data1).to_csv("AngelYu/day25/squirrel_count.csv")
 # data_count = data_grey.count()  # Get the number of gray squirrels in the data
 # print(data_count)
 
+
