@@ -1,6 +1,6 @@
 """Extract colors from an image."""
 # import colorgram
-
+# comment out the code below after running it once
 # rgb_color = []
 # colors = colorgram.extract(r'C:\Users\Olalekan\Desktop\Python\Angela_Yu\painting\my_image.jpg', 60)
 # for colo in colors:
